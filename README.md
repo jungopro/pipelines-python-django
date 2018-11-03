@@ -1,5 +1,7 @@
 # Sample Python app for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/jungopro/pipelines-test/_apis/build/status/pipelines-test-CI)](https://dev.azure.com/jungopro/pipelines-test/_build/latest?definitionId=13)
+
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
